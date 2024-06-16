@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#Script which replace text in chosen file
+#Script which replace text in the chosen file
 
 echo "Enter the directory where .txt files need replacement:"
 read dir
