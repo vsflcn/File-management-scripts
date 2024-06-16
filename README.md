@@ -15,7 +15,7 @@ A collection of Bash scripts for system administrators to manage files, search b
 
 7) inc_backup.sh - Checks if derictories are existing, creates meta data file if hasn't been already created, read the meta-file and checks all files in directory, if file newer than meta-file (not updated), copies "another" file to desired directory
 
-8) replacement.sh - Script which replaces text in the chosen file
+8) replacement.sh - Script which replaces text in the file
 
 9) site-curl.sh - Script which checks if a site is available now using curl
 
